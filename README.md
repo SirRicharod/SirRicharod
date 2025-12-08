@@ -16,5 +16,6 @@ Hi, I'm Riccardo! <br>I'm currently studying to become a full stack developer.  
 ---
 [![](https://visitcount.itsvg.in/api?id=SirRicharod&icon=6&color=6)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SirRicharod&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SirRicharod&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
+-->
