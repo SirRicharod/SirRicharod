@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi, I'm Riccardo!
-I'm currently studying to become a full stack developer. 
-I completed my Bachelor's in Game Design. 
-I enjoy programming, exploring new tech, and learning skills that prepare me for the future.
+Hi, I'm Riccardo!<br>
+I'm currently studying to become a full stack developer.<br>
+I completed my Bachelor's in Game Design.<br>
+I enjoy programming, exploring new tech, and learning skills that prepare me for the future.<br>
 
 ## 🌐 Contact Me
 <div>
