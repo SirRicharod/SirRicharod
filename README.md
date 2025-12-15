@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:89AEF9,100:FF9AD2">
 Hi, I'm Riccardo!
 I'm currently studying to become a full stack developer. 
 I completed my Bachelor's in Game Design. 
@@ -11,6 +12,9 @@ I enjoy programming, exploring new tech, and learning skills that prepare me for
 <span><a href="https://linkedin.com/in/riccardogiannecchini/">Riccardo Giannecchini</span>
 </div>
 <span><img src="https://cdn-icons-png.freepik.com/512/9234/9234016.png?ga=GA1.1.1910340063.1765535492" width="20"></span> | riccardo.contact [at] proton [dot] me
+<div>
+📗| Check out my <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">portfolio!
+</div>
 
 
 <h2 align="center">💻 My Tech Stack</h2>
@@ -19,6 +23,9 @@ I enjoy programming, exploring new tech, and learning skills that prepare me for
 
 <br>
 <br>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SirRicharod&style=for-the-badge&color=cc0a5b&label=Profile+Views">
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:89AEF9,100:FF9AD2&fontSize=1&section=footer)
