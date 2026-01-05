@@ -8,12 +8,12 @@ I enjoy programming, exploring new tech, and learning skills that prepare me for
 <div>
 <span><a href="https://linkedin.com/in/riccardogiannecchini/">
 <img src="https://cdn-icons-png.freepik.com/256/1419/1419502.png?semt=ais_white_label" width="20"/></a>
-</span> | 
+</span>  | 
 <span><a href="https://linkedin.com/in/riccardogiannecchini/">Riccardo Giannecchini</span>
 </div>
-<span><img src="https://cdn-icons-png.freepik.com/512/9234/9234016.png?ga=GA1.1.1910340063.1765535492" width="20"></span> | riccardo.contact [at] proton [dot] me
+<span><img src="https://cdn-icons-png.freepik.com/512/9234/9234016.png?ga=GA1.1.1910340063.1765535492" width="20"></span>  | riccardo.contact [at] proton [dot] me
 <div>
-📗| Check out my <a href="https://sirricharod.github.io/portfolio/" target="_blank">portfolio!
+📗  | Check out my <a href="https://sirricharod.github.io/portfolio/" target="_blank">portfolio!
 </div>
 
 
